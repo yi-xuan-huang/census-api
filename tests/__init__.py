@@ -1,0 +1,1 @@
+from censusapi.tests import *
